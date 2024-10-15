@@ -10,6 +10,10 @@
 ### Flex-box
 - 1차원 레이아웃, 주 축은 justify-content로, 교차 축(셀 안에 요소들의 정렬)은 align-items로 정렬한다.  
 - 아이템의 순서는 order 속성을 통해 변경할 수 있다.
-
+### Entity
+- An object in Javascript is an entity that has both data and functionality.
+### Object
+### This / bind / apply / call
+### Randomness
 
 
